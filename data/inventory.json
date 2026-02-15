@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Sumiyaki beans",
+        "quantity": 12.0,
+        "description": "Sumiyaki beans imported from Japan"
+    },
+    {
+        "id": 2,
+        "name": "Ice",
+        "quantity": 3.0,
+        "description": "Ice for coffee"
+    },
+    {
+        "id": 3,
+        "name": "Milk",
+        "quantity": 5.0,
+        "description": "Milk for latte"
+    }
+]

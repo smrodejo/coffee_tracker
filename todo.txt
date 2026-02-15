@@ -1,0 +1,5 @@
+
+###TODOs
+### ADD sales - inventory
+### Issues - machines
+### Sales, supplier,
